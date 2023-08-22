@@ -3,8 +3,11 @@ package ideaProjects;
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println(87-35);
-        }
+        int a = 87;
+        int b = 35;
+
+        System.out.println(a-b);
 
     }
+}
 
